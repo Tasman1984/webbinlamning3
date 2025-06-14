@@ -1,0 +1,3 @@
+Jag har lärt mig hur man använder JavaScript för att reagera på användarens inmatning, hur DOM fungerar för att lägga till element på sidan utan att ladda om, samt varför man ska använda textContent i stället för innerHTML för att skydda mot XSS-attacker.
+
+Jag har också lärt mig om tillgänglighet, t.ex. aria-live och att använda label för att hjälpa skärmläsare. Det är viktigt att bygga webbsidor som alla kan använda, även personer med funktionsvariationer.
